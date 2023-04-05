@@ -13,7 +13,7 @@ public class ANN_MLP {
         
         //reading the dataset and save it into data variable
         Preprocess rd = new Preprocess();
-        String csvPath = "C:\\Users\\amiru\\Documents\\NetBeansProjects\\ANN_MLP\\dataset\\dataset.csv";
+        String csvPath = "SansTar17/ann/dataset/dataset.csv";
         List<String[]> data = rd.readCSV(csvPath);
         rd.head(data, 5);
         
