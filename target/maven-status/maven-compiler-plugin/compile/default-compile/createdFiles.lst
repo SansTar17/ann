@@ -1,0 +1,5 @@
+util\Convert.class
+artificialneuralnetwork\mlp\Layer.class
+artificialneuralnetwork\mlp\MultilayerPerceptron.class
+com\sanstar\ann_mlp\ANN_MLP.class
+artificialneuralnetwork\mlp\Neuron.class
